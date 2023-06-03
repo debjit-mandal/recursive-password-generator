@@ -8,3 +8,5 @@ To run this code locally:
 `cd recursive-password-generator`
 
 `python main.py`
+
+Feel free to suggest any kind of improvements. 
