@@ -1,2 +1,10 @@
-# recursive-password-generator
-It is a Recursive Password Generator made using Python
+# Recursive Password Generator
+It is a Recursive Password Generator made using Python. 
+
+To run this code locally:
+
+`git clone https://github.com/debjit-mandal/recursive-password-generator`
+
+`cd recursive-password-generator`
+
+`python main.py`
